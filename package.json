@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "complete node.js course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denzilmuseruka-byu/CSE341Code.git"
+  },
+  "author": "denzil museruka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denzilmuseruka-byu/CSE341Code/issues"
+  },
+  "homepage": "https://github.com/denzilmuseruka-byu/CSE341Code#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
