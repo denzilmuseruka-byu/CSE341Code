@@ -20,13 +20,13 @@
   "homepage": "https://github.com/denzilmuseruka-byu/CSE341Code#readme",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^1.18.3"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "express-handlebars": "^6.0.2",
-    "pug": "^3.0.2"
+    "express-handlebars": "^3.0.0",
+    "pug": "^2.0.3"
   }
 }
