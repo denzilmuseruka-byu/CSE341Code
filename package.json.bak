@@ -8,16 +8,7 @@
     "start": "nodemon app.js",
     "start-server": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/denzilmuseruka-byu/CSE341Code.git"
-  },
-  "author": "denzil museruka",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/denzilmuseruka-byu/CSE341Code/issues"
-  },
-  "homepage": "https://github.com/denzilmuseruka-byu/CSE341Code#readme",
+  "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
